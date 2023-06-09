@@ -8,3 +8,5 @@ Mentor Repository for Team 15 of IITISoC '23 AI/ML domain.
 
 ## Members
 - [Sai Pranay Deep](https://github.com/saipranaydeep)
+- [Tejaswini Pappala]
+- (https://github.com/Tejaswini262) 
